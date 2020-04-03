@@ -1,4 +1,4 @@
-let lastGridNumber = 16; 
+let lastGridNumber = 256; 
 createNewGrid(lastGridNumber); //creates first grid with 16 squares
 
 function createNewGrid(squareNumber){
